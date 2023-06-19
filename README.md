@@ -1,18 +1,14 @@
 <<<<<<< HEAD
-## Getting Started
+## Bank Management System
+The goal of the project is to recreate the basic functions of bank registration pages.
+This project is written in Java and MySQL languages.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## How to install the project
 
-## Folder Structure
+The project contains .java, .jpg, and more files. 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- To download them open GitHub and download the zip file.
+- To run the code open the project on any platform and run Login.java file.
 
 ## Dependency Management
 
